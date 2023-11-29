@@ -32,4 +32,4 @@ jobs:
           target-directory: gen
           user-email: extremeclasherph@gmail.com
           commit-message: Update Changes
-          target-branch: main
+          target-branch: master
