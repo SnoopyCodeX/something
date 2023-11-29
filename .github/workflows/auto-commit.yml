@@ -31,7 +31,7 @@ jobs:
         with:
           source-directory: gen
           destination-github-username: 'SnoopyCodeX'
-          destination-repository-name: 'snoopbot-v2'
+          destination-repository-name: 'Auto-Commit-Generator'
           target-directory: gen
           user-email: extremeclasherph@gmail.com
           commit-message: Update Changes
