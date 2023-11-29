@@ -11,7 +11,7 @@ class CommitGenerator {
                     folder.mkdir();
                 }
 
-                File fe = new File("README.yml");
+                File fe = new File("gen/README.yml");
                 FileWriter fw = new FileWriter(fe);
                 BufferedWriter bufferedWriter = new BufferedWriter(fw);
 
