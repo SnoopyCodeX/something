@@ -18,8 +18,8 @@ jobs:
           java-version: 11.0.10
       - name: Generate
         run: |
-          javac Active.java
-          java Active
+          javac CommitGenerator.java
+          java CommitGenerator
       - name: Update Repo
         id: push_directory
         uses: cpina/github-action-push-to-another-repository@main
