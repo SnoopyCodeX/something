@@ -1,4 +1,4 @@
-name: Auto Commit
+name: Remote Push
 
 on:
   schedule:
